@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+f61d/LOGO.py
+f61d/__init__.py
+f61d/__version__.py
+f61d/bingdwendwen.py
+f61d/core.py
+f61d/lifeGame.py
+f61d.egg-info/PKG-INFO
+f61d.egg-info/SOURCES.txt
+f61d.egg-info/dependency_links.txt
+f61d.egg-info/requires.txt
+f61d.egg-info/top_level.txt
